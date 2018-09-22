@@ -6,7 +6,7 @@ For the train data:
 	Acording to train data every lexelt item has several senseId
 	i creat object for every senseId
 	So every lexelt object holds a HashMap which holds senseID object
-	Every senseId object has a word count which it has and feature list
+	Every senseId object has a word count which it has and feature list.
 	In senseId object i hold a HashMap with key as a word or pos and value its frequency.
 
 	Note: you declare window size as a 3 therefore i build if control structures for every word and pos
