@@ -1,5 +1,4 @@
 Word Sense Disambiguation using Naive Bayes
-
 For the train data:
 	I design like in that order
 	i creat object for every lexelt item
