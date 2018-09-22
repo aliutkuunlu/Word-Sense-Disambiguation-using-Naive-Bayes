@@ -1,0 +1,99 @@
+<corpus lang="en">
+
+<lexelt item="accident-n">
+
+<instance id="accident-n.800001">
+
+<answer instance="accident-n.800001" senseid="532675"/>
+
+<context>
+
+late <p="RB"/> on <p="IN"/> thursday <p="NNP"/> night <p="NN"/> it <p="PRP"/> was <p="VBD"/> travelling <p="VBG"/> at <p="IN"/> about <p="IN"/> three <p="CD"/> metres <p="VBZ"/> a <p="DT"/> second <p="NN"/> in <p="IN"/> wind <p="NN"/> blowing <p="VBG"/> at <p="IN"/> 20 <p="CD"/> to <p="TO"/> 25 <p="CD"/> knots <p="NNS"/> when <p="WRB"/> an <p="DT"/> empty <p="JJ"/> car <p="NN"/> fell <p="VBD"/> off <p="IN"/> just <p="RB"/> as <p="IN"/> it <p="PRP"/> reached <p="VBD"/> the <p="DT"/> top <p="NN"/> . <p="."/> 
+the <p="DT"/> <head>accident <p="NN"/></head> appeared <p="VBD"/> to <p="TO"/> have <p="VB"/> little <p="JJ"/> effect <p="NN"/> on <p="IN"/> the <p="DT"/> christmas <p="NNP"/> party <p="NN"/> , <p=","/> except <p="VB"/> to <p="TO"/> lengthen <p="VB"/> it <p="PRP"/> considerably <p="RB"/> . <p="."/> 
+</context>
+
+</instance>
+
+<instance id="accident-n.800002">
+
+<answer instance="accident-n.800002" senseid="532675"/>
+
+<context>
+
+an <p="DT"/> image <p="NN"/> of <p="IN"/> earnest <p="NN"/> greenery <p="NNP"/> is <p="VBZ"/> almost <p="RB"/> tangible <p="JJ"/> . <p="."/> 
+eighteen <p="CD"/> years <p="NNS"/> ago <p="RB"/> she <p="PRP"/> lost <p="VBD"/> one <p="CD"/> of <p="IN"/> her <p="PRP$"/> six <p="CD"/> children <p="NNS"/> in <p="IN"/> an <p="DT"/> <head>accident <p="NN"/></head> on <p="IN"/> stratford <p="NNP"/> road <p="NNP"/> , <p=","/> a <p="DT"/> tragedy <p="NN"/> which <p="WDT"/> has <p="VBZ"/> become <p="VBN"/> a <p="DT"/> pawn <p="NN"/> in <p="IN"/> the <p="DT"/> pitiless <p="JJ"/> point-scoring <p="NN"/> of <p="IN"/> small-town <p="JJ"/> vindictiveness <p="NN"/> . <p="."/> 
+</context>
+
+</instance>
+
+<instance id="accident-n.800003">
+
+<answer instance="accident-n.800003" senseid="532675"/>
+
+<context>
+
+it <p="PRP"/> 's <p="VBZ"/> a <p="DT"/> sentiment <p="NN"/> i <p="PRP"/> recommend <p="VBP"/> to <p="TO"/> you <p="PRP"/> all <p="DT"/> . <p="."/> 
+the <p="DT"/> <head>accident <p="NN"/></head> occurred <p="VBD"/> on <p="IN"/> the <p="DT"/> saturday <p="NNP"/> of <p="IN"/> the <p="DT"/> annual <p="JJ"/> popular <p="NNP"/> flying <p="NNP"/> association <p="NNP"/> ( <p="("/> pfa <p="NNP"/> ) <p="SYM"/> rally <p="NN"/> at <p="IN"/> cranfield <p="NNP"/> . <p="."/> 
+</context>
+
+</instance>
+
+<instance id="accident-n.800004">
+
+<answer instance="accident-n.800004" senseid="538889"/>
+
+<context>
+
+wasted <p="JJ"/> journey <p="NN"/> : <p=":"/> pergamon <p="NNP"/> protesters <p="NNS"/> waiting <p="VBG"/> outside <p="IN"/> the <p="DT"/> oxford <p="NNP"/> union <p="NNP"/> debating <p="VBG"/> chamber <p="NN"/> for <p="IN"/> robert <p="NNP"/> maxwell <p="NNP"/> 
+northern <p="NNP"/> ireland <p="NNP"/> transport <p="NNP"/> minister <p="NNP"/> mr <p="NNP"/> peter <p="NNP"/> bottomley <p="NNP"/> , <p=","/> today <p="NN"/> pledged <p="VBD"/> a <p="DT"/> full <p="JJ"/> inquiry <p="NN"/> into <p="IN"/> last <p="JJ"/> night <p="NN"/> 's <p="POS"/> rail <p="NN"/> crossing <p="VBG"/> tragedy <p="NN"/> in <p="IN"/> which <p="WDT"/> three <p="CD"/> people <p="NNS"/> died <p="VBD"/> and <p="CC"/> 27 <p="CD"/> were <p="VBD"/> injured <p="VBN"/> . <p="."/> 
+after <p="IN"/> meeting <p="NN"/> <head>accident <p="NN"/></head> investigators <p="NNS"/> , <p=","/> he <p="PRP"/> said <p="VBD"/> the <p="DT"/> inquiry <p="NN"/> 's <p="POS"/> findings <p="NNS"/> would <p="MD"/> be <p="VB"/> made <p="VBN"/> public <p="JJ"/> . <p="."/> 
+</context>
+
+</instance>
+
+<instance id="accident-n.800005">
+
+<answer instance="accident-n.800005" senseid="532675"/>
+
+<context>
+
+senna <p="NNP"/> 's <p="POS"/> evidence <p="NN"/> has <p="VBZ"/> been <p="VBN"/> heard <p="VBN"/> by <p="IN"/> the <p="DT"/> fia <p="NNP"/> , <p=","/> but <p="CC"/> the <p="DT"/> lengthy <p="JJ"/> deliberation <p="NN"/> by <p="IN"/> the <p="DT"/> three-man <p="JJ"/> tribunal <p="NN"/> means <p="VBZ"/> that <p="IN"/> the <p="DT"/> case <p="NN"/> is <p="VBZ"/> not <p="RB"/> as <p="RB"/> clear-cut <p="JJ"/> as <p="IN"/> jean-marie <p="NNP"/> balestre <p="NNP"/> , <p=","/> the <p="DT"/> fia <p="NNP"/> president <p="NN"/> , <p=","/> believed <p="VBD"/> on <p="IN"/> the <p="DT"/> night <p="NN"/> of <p="IN"/> the <p="DT"/> race <p="NN"/> . <p="."/> 
+balestre <p="NNP"/> had <p="VBD"/> no <p="DT"/> hesitation <p="NN"/> in <p="IN"/> blaming <p="VBG"/> senna <p="NNP"/> for <p="IN"/> the <p="DT"/> <head>accident <p="NN"/></head> , <p=","/> adding <p="VBG"/> that <p="IN"/> he <p="PRP"/> had <p="VBD"/> broken <p="VBN"/> the <p="DT"/> rules <p="NNS"/> by <p="IN"/> rejoining <p="VBG"/> in <p="IN"/> the <p="DT"/> way <p="NN"/> he <p="PRP"/> did <p="VBD"/> . <p="."/> 
+</context>
+
+</instance>
+
+<instance id="accident-n.800006">
+
+<answer instance="accident-n.800006" senseid="532675"/>
+
+<context>
+
+in <p="IN"/> tarragona <p="NNP"/> , <p=","/> the <p="DT"/> site <p="NN"/> of <p="IN"/> the <p="DT"/> vandellos <p="NNP"/> 1 <p="CD"/> reactor <p="NN"/> in <p="IN"/> northern <p="JJ"/> spain <p="NNP"/> , <p=","/> confusion <p="NN"/> seems <p="VBZ"/> to <p="TO"/> have <p="VB"/> been <p="VBN"/> rife <p="JJ"/> too <p="RB"/>  this <p="DT"/> time <p="NN"/> with <p="IN"/> consequences <p="NNS"/> that <p="WDT"/> could <p="MD"/> have <p="VB"/> been <p="VBN"/> more <p="RBR"/> serious <p="JJ"/> . <p="."/> 
+the <p="DT"/> <head>accident <p="NN"/></head> caused <p="VBD"/> no <p="DT"/> injuries <p="NNS"/> and <p="CC"/> no <p="DT"/> radioactivity <p="NN"/> was <p="VBD"/> released <p="VBN"/> . <p="."/> 
+</context>
+
+</instance>
+
+<instance id="accident-n.800007">
+
+<answer instance="accident-n.800007" senseid="532675"/>
+
+<context>
+
+how <p="NNP"/> safe <p="NNP"/> is <p="VBZ"/> your <p="JJ"/> kitchen <p="NNP"/> ? <p="."/> 
+safety <p="NNP"/> week <p="NNP"/> to <p="TO"/> highlight <p="VB"/> perils <p="NNS"/> in <p="IN"/> our <p="PRP$"/> kitchens <p="NNS"/> have <p="NNP"/> you <p="PRP"/> ever <p="RB"/> spilt <p="VBP"/> boiling <p="VBG"/> water <p="NN"/> from <p="IN"/> a <p="DT"/> kettle <p="NN"/> or <p="CC"/> mug <p="NN"/> , <p=","/> slipped <p="VBD"/> on <p="IN"/> potato <p="NN"/> peel <p="VB"/> on <p="IN"/> the <p="DT"/> floor <p="NN"/> , <p=","/> cut <p="VB"/> yourself <p="PRP"/> on <p="IN"/> an <p="DT"/> open <p="JJ"/> tin <p="NN"/> , <p=","/> or <p="CC"/> climbed <p="VBD"/> onto <p="IN"/> a <p="DT"/> wobbly <p="JJ"/> chair <p="NN"/> to <p="TO"/> reach <p="VB"/> into <p="IN"/> a <p="DT"/> high <p="JJ"/> cupboard <p="NN"/> and <p="CC"/> fallen <p="VBN"/> off <p="RB"/> . <p="."/> 
+more <p="RBR"/> than <p="IN"/> 250 <p="CD"/> , <p=","/> 000 <p="CD"/> people <p="NNS"/> have <p="VBP"/> to <p="TO"/> go <p="VB"/> to <p="TO"/> hospital <p="NN"/> each <p="DT"/> year <p="NN"/> because <p="IN"/> of <p="IN"/> <head>accidents <p="NNS"/></head> in <p="IN"/> the <p="DT"/> kitchen <p="NN"/> . <p="."/> 
+</context>
+
+</instance>
+
+<instance id="accident-n.800008">
+
+<answer instance="accident-n.800008" senseid="532675"/>
+
+<context>
+
+it <p="PRP"/> will <p="MD"/> be <p="VB"/> some <p="DT"/> time <p="NN"/> before <p="IN"/> that <p="DT"/> 's <p="VBZ"/> clear <p="JJ"/> at <p="IN"/> all <p="DT"/> . <p="."/> 
+also <p="RB"/> on <p="IN"/> the <p="DT"/> a <p="DT"/> thirty <p="CD"/> four <p="CD"/> , <p=","/> at <p="IN"/> great <p="NNP"/> rollright <p="NNP"/> near <p="IN"/> chipping <p="VBG"/> norton <p="NNP"/> , <p=","/> there <p="EX"/> 's <p="VBZ"/> been <p="VBN"/> a <p="DT"/> serious <p="JJ"/> <head>accident <p="NN"/></head> there <p="EX"/> and <p="CC"/> there <p="EX"/> are <p="VBP"/> tailbacks <p="NNS"/> beginning <p="VBG"/> to <p="TO"/> grow <p="VB"/> in <p="IN"/> both <p="DT"/> directions <p="NNS"/> . <p="."/> 
+</context>
